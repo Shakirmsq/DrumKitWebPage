@@ -1,4 +1,9 @@
-        html {
+       
+body{
+          background-color: #a6a6a6;
+}
+
+html {
             font-size: 15px;
             background-color: rgb(110, 36, 115);
             background: url('/img/audience.jpg');
@@ -8,7 +13,7 @@
         body.html {
             margin: 0;
             padding: 0;
-                background-color: #a6a6a6;
+              
         }
         
         h1 {
