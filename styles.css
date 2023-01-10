@@ -1,14 +1,11 @@
        
-body{
-          background-color: #a6a6a6;
-        background: url('/img/audience.jpg');
-}
+
 
 html {
             font-size: 15px;
-            background-color: rgb(110, 36, 115);
-/*             background: url('/img/audience.jpg'); */
-            background-size: contain;
+            background-color: #a6a6a6;
+            background: url("img/audience.jpg");
+            
         }
         
         body.html {
